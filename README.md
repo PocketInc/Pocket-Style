@@ -1,5 +1,5 @@
 # Pocket Style
-<p>Pocket's Official Website styling code.</p>
+<p>Pocket's Official Web Styling code.</p>
 <p>More info soon.</p>
 
 <b>Project will be started soon.</b>
