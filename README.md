@@ -1,7 +1,7 @@
 # Pocket Style
-Pocket's Official Website styling code
-More info soon.
+<p>Pocket's Official Website styling code.</p>
+<p>More info soon.</p>
 
-Project will be started soon.
+<b>Project will be started soon.</b>
 
 <a href="http://pocket-inc.ml">&copy; Pocket Inc</a>
