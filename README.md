@@ -19,4 +19,4 @@
   <li>more soon..</li>
   </ul>
 
-<a href="http://pocket-inc.ml">&copy; Pocket Inc</a>
+<a href="http://pocket-inc.ml">&copy; 2020 - Pocket Inc</a>
