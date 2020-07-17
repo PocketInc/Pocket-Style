@@ -1,0 +1,114 @@
+/*
+Pocket Style Official Code.
+Codded by Pocket, Inc.
+Created Originally for Pocket Inc Projects.
+(C) 2020 - Pocket Inc.
+MIT License
+ */
+.bg-green {
+    background-color: #22B14C!important;
+}
+.text-green {
+    color: #22B14C;
+}
+input.avatar {
+    border-radius: 25px!important;
+    border: 0!important;
+}
+
+.avatar {
+    border-radius: 50%;
+    border: 0;
+}
+
+
+.bg-lightgreen {
+    background-color: #B5E61D;
+}
+.text-lightgreen {
+    color: #B5E61D;
+}
+.text-center {
+    text-align: center!important;
+    align-content: center;
+    align-items: center;
+}
+.w50 {
+    width: 50%!important;
+}
+.w25 {
+    width: 25%!important;
+}
+.text-colorful {
+animation: text-colorful 5s infinite;
+}
+@keyframes text-colorful {
+    0%{
+        color: red;
+    }
+    25% {
+        color: blue;
+    }
+    50% {
+        color: limegreen;
+    }
+    75% {
+        color: yellow;
+    }
+    100% {
+        color: red;
+    }
+}
+.bg-colorful {
+    animation: bg-colorful 5s infinite;
+}
+@keyframes bg-colorful {
+    0%{
+        background-color: red;
+    }
+    25% {
+        background-color: blue;
+    }
+    50% {
+        background-color: limegreen;
+    }
+    75% {
+        background-color: yellow;
+    }
+    100% {
+        background-color: red;
+    }
+}
+input.animate {
+    width: 40%;
+    transition: ease-out 2s;
+    height: 20px;
+}
+input.animate:hover  {
+    width: 65%;
+}
+.btn {
+    padding: 6px 12px 6px 12px;
+    color: black;
+    border: 1.2px solid lightgrey;
+    transition-duration: 2s;
+    background-color: transparent;
+}
+.btn:hover {
+border-radius: 25px;
+background-color: lightgrey;
+}
+.btn-green {
+color: #22B14C!important;
+border-color: #22B14C!important;
+}
+.btn-green:hover {
+    color: white!important;
+    border-color: white!important;
+    background-color: #22B14C!important;
+}
+/* TODO: add more btn colors */
+
+div.container {
+
+}
